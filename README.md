@@ -1,5 +1,7 @@
 # Torres de Hanói
 
+- Instalacion (#Instalación)
+
 # Instalación
 Primero, instalar las dependencias, ya sea manual o de forma automática desde el archivo `instalar_dependencias.py`.
 
