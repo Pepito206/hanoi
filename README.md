@@ -1,4 +1,4 @@
-# hanoi
+# Torres de Hanoi
 
 Primero, instalar las dependecias ya sea manual o de forma del archivo de "instalar_dependencias.py"
 
