@@ -105,7 +105,7 @@ Al cerrar la aplicacion principal tambien se cerraran todas las pestañas o vent
 
 
 # Para eliminar la libreria
-Si deseamos eliminar la libreria ingresamos al archivo "desistalar_dependencias.py y lo ejecutamos
+Si deseamos eliminar la libreria ingresamos al archivo "desistalar_dependencias.py" y lo ejecutamos
 
 ![image](https://github.com/user-attachments/assets/f36074ca-ef0b-4821-8154-6c1ccbc07e76)
 
