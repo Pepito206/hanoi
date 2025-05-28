@@ -1,6 +1,21 @@
 # Torres de Hanói
 
-- Instalacion (#Instalación)
+-----------------------------------------------------------
+1. [Link de video](#lin-de-video)
+2. [Instalacion](#instalación)
+3. [Reglas](#reglas)
+4. [Interfas](#interfas)
+5. [funcionalidad](#funcionalidad)
+6. [Notas](#notas)
+7. [Para eliminar la libreria](#para-eliminar-la-libreria)
+8. [Errores](#errores)
+9. [fin](#fin)
+----------------------------------------------------------
+
+# Link de video
+el video de la aplicacion de las torres de hanoi realizada por los integrantes del grupo
+[Link del video aqui](https://youtu.be/9lvQJ6R-j-M)
+
 
 # Instalación
 Primero, instalar las dependencias, ya sea manual o de forma automática desde el archivo `instalar_dependencias.py`.
