@@ -1,11 +1,11 @@
 # Torres de Hanói
 
 # Instalación
-Primero, instalar las dependencias, ya sea manual o de forma automática desde el archivo "instalar_dependencias.py".
+Primero, instalar las dependencias, ya sea manual o de forma automática desde el archivo `instalar_dependencias.py`.
 
 - Forma manual:
 Abrimos la terminal (Ctrl + J) y ejecutamos el siguiente comando:
-*"pip install Pillow"*
+`*"pip install Pillow"*`
 
 - Forma del programa:
 Ejecutamos el archivo `instalar_dependencias.py`.
@@ -92,7 +92,7 @@ Al cerrar la aplicación principal, también se cerrarán todas las pestañas o 
 ![image](https://github.com/user-attachments/assets/41055cbe-3ea0-4d5c-88c3-b4d72c57e378)
 
 # Para eliminar la librería
-Si deseamos eliminar la librería, ingresamos al archivo "desinstalar_dependencias.py" y lo ejecutamos.
+Si deseamos eliminar la librería, ingresamos al archivo `desinstalar_dependencias.py` y lo ejecutamos.
 
 ![image](https://github.com/user-attachments/assets/f36074ca-ef0b-4821-8154-6c1ccbc07e76)
 
